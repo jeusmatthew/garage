@@ -11,8 +11,8 @@ int main(){
 	
 	suma	= n1 + n2;
 	resta	= n1 - n2;
-	m		= n1 * n2;
-	d		= n1 / n2;
+	m	= n1 * n2;
+	d	= n1 / n2;
 	
 	cout<<"Que operacion desea realizar? "; 
 	cout<<"\n1)Suma"; 
